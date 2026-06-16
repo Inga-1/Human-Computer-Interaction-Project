@@ -1,1 +1,1 @@
-# Human-Computer-Interaction-Project
+# HCI Time Management app
