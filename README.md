@@ -1,7 +1,7 @@
 # HCI Time Management app
 This is the GitHub repository for the code of the time management app developed by the **24/7-ish** group as part of the HCI course in ACSAI, Sapienza University, a.y. 2025–2026.
 
-## Group members
+### Group members
 
 * Inga Grigoryan- @Inga-1
 * Armen Grigoryan- 
