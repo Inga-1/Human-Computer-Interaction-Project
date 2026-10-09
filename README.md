@@ -1,5 +1,5 @@
 # HCI Time Management app
-This is the GitHub repository for the code of the time management app developed by the **24/7-ish** group as part of the HCI course in ACSAI, Sapienza University, a.y. 2025–2026.
+This is the GitHub repository for the code of the time management app developed by the **24/7-ish** group as part of the HCI course in ACSAI, Sapienza University, a.y. 2025–2026. The project has been developed with the help of vibe coding. 
 
 ### Group members
 
